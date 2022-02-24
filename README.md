@@ -19,5 +19,6 @@ Course of events:
 - Visualizing data science findings
 
 
-The code of the program and the dataset are in the folder "code"
-The plots created in the program can seperately be found in the folder "plots"
+The code of the program and the dataset are in the folder "code".
+
+The plots created in the program can seperately be found in the folder "plots".
