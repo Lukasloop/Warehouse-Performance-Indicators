@@ -17,3 +17,7 @@ Course of events:
 - Exploratory data analysis
 - Data wrangling, tyding and manipulation
 - Visualizing data science findings
+
+
+The code of the program and the dataset are in the folder "code"
+The plots created in the program can seperately be found in the folder "plots"
